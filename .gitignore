@@ -1,0 +1,9 @@
+# Binaries
+certwatch
+*.exe
+
+# Build output
+/out/
+
+# Go module cache artefacts
+*.test
